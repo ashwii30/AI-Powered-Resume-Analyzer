@@ -1,0 +1,12 @@
+pandas
+spacy==2.3.5
+streamlit
+plotly
+pymysql
+streamlit-tags
+Pillow
+nltk
+pdfminer3
+yt_dlp
+pyresparser
+# python -m spacy download en_core_web_sm
